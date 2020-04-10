@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LordDapper</string>
+    <string name="button_next">Next -></string>
+    <string name="button_go">Go -></string>
+    <string name="button_sell">Sell</string>
 </resources>
