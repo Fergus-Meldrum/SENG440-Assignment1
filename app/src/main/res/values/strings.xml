@@ -3,4 +3,9 @@
     <string name="button_next">Next -></string>
     <string name="button_go">Go -></string>
     <string name="button_sell">Sell</string>
+    <string name="BrandTitle">Brand</string>
+    <string name="TypeTitle">Type</string>
+    <string name="SizeTitle">Size</string>
+    <string name="SortTitle">Sort Items By</string>
+    <string name="LocationTitle">Location</string>
 </resources>
