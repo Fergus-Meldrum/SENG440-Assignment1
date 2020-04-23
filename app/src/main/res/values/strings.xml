@@ -1,11 +1,18 @@
 <resources>
     <string name="app_name">LordDapper</string>
     <string name="button_next">Next -></string>
-    <string name="button_go">Go -></string>
-    <string name="button_sell">Sell</string>
-    <string name="BrandTitle">Brand</string>
-    <string name="TypeTitle">Type</string>
-    <string name="SizeTitle">Size</string>
-    <string name="SortTitle">Sort Items By</string>
-    <string name="LocationTitle">Location</string>
+    <string name="button_start">Start</string>
+    <string name="welcome_title">Welcome to LordDapper</string>
+    <string name="info_landing">We help you shop for mens designer clothing</string>
+    <string name="choose_type_instruction">Choose your clothing type.</string>
+    <string name="choose_size_instruction">Choose your clothing size.</string>
+    <string name="choose_brand_instruction">Choose your clothing brand.</string>
+    <string name="choose_location_instruction">Choose your clothing location.</string>
+    <string name="choose_button">Choose</string>
+    <string name="confirm_selection_button">Confirm Selection</string>
+    <string name="selection_confirmation_label">Current Selection:</string>
+    <string name="default_selection">All</string>
+    <string name="search_button">Search</string>
+    <string name="final_search_conformation">Your search will be:</string>
+
 </resources>

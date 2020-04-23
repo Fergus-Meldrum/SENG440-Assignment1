@@ -11,17 +11,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val sellButton: Button = findViewById(R.id.sellButton)
+        val startButton: Button = findViewById(R.id.startButton)
 
-        sellButton.setOnClickListener {
-            val intent = Intent(this, Sell_Item1::class.java)
-            startActivity(intent)
-        }
-
-        val goButton: Button = findViewById(R.id.goButton)
-
-        goButton.setOnClickListener {
-            val intent = Intent(this, BrowseItems::class.java)
+        startButton.setOnClickListener {
+            val intent = Intent(this, choose_clothing_type::class.java)
             startActivity(intent)
         }
     }
